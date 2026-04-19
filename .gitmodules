@@ -1,0 +1,3 @@
+[submodule "benthicnet"]
+	path = benthicnet
+	url = https://github.com/DalhousieAI/benthicnet

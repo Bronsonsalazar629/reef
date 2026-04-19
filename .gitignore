@@ -1,0 +1,15 @@
+# Datasets — too large for git
+datasets/
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store

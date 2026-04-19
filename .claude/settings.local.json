@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --plugin-dir /home/bronson/.claude/local-plugins -p \"list your available skills\")",
+      "WebSearch"
+    ]
+  }
+}
